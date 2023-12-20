@@ -8,4 +8,4 @@ In this assignment, I have started on the code to the back end for a e-commerce 
 N/A
 
 ## Screenshots
-![insomnia](./Backend_Bank/E-Comm/Develop/images/Desktop%20Screenshot%202023.12.19%20-%2020.30.15.76.png?raw=true)
+![Desktop Screenshot 2023 12 19 - 20 30 15 76](https://github.com/Jakobytk/E-Comm/assets/144289360/3166d7e3-f671-4e8a-9af9-f41ae2d0d449)
