@@ -8,4 +8,4 @@ In this assignment, I have started on the code to the back end for a e-commerce 
 N/A
 
 ## Screenshots
-![insomnia](/Backend_Bank/E-Comm/Develop/images/Desktop%20Screenshot%202023.12.19%20-%2020.30.15.76.png)
+![insomnia](./Backend_Bank/E-Comm/Develop/images/Desktop%20Screenshot%202023.12.19%20-%2020.30.15.76.png?raw=true)
